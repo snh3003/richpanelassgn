@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/richpanelassgn/static/css/main.7ee89bd0.chunk.css",
+    "main.js": "/richpanelassgn/static/js/main.e6e66a66.chunk.js",
+    "main.js.map": "/richpanelassgn/static/js/main.e6e66a66.chunk.js.map",
+    "runtime-main.js": "/richpanelassgn/static/js/runtime-main.f0be8ac3.js",
+    "runtime-main.js.map": "/richpanelassgn/static/js/runtime-main.f0be8ac3.js.map",
+    "static/css/2.4be38407.chunk.css": "/richpanelassgn/static/css/2.4be38407.chunk.css",
+    "static/js/2.d82bca85.chunk.js": "/richpanelassgn/static/js/2.d82bca85.chunk.js",
+    "static/js/2.d82bca85.chunk.js.map": "/richpanelassgn/static/js/2.d82bca85.chunk.js.map",
+    "static/js/3.3ba0e7fe.chunk.js": "/richpanelassgn/static/js/3.3ba0e7fe.chunk.js",
+    "static/js/3.3ba0e7fe.chunk.js.map": "/richpanelassgn/static/js/3.3ba0e7fe.chunk.js.map",
+    "index.html": "/richpanelassgn/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/richpanelassgn/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.7ee89bd0.chunk.css.map": "/richpanelassgn/static/css/main.7ee89bd0.chunk.css.map",
+    "static/js/2.d82bca85.chunk.js.LICENSE.txt": "/richpanelassgn/static/js/2.d82bca85.chunk.js.LICENSE.txt",
+    "static/media/man.6b12e7fe.jpg": "/richpanelassgn/static/media/man.6b12e7fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0be8ac3.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.d82bca85.chunk.js",
+    "static/css/main.7ee89bd0.chunk.css",
+    "static/js/main.e6e66a66.chunk.js"
+  ]
+}
